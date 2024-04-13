@@ -4,8 +4,12 @@
 
 Proyecto de la Unidad #1 de la materia Electronica Microcontrolada
 
+Como integrantes del equipo, queremos familiarizarnos con el entorno de desarrollo y herramientas de colaboración para comenzar eficazmente nuestro proyecto IoT.
+
+
 Integrantes:
 .
 .
 .
 . Villablanca Rodas Marcia Elizabeth
+. Roldan Patricio Leandro
