@@ -1,0 +1,1 @@
+Un buzzer es un dispositivo electrónico que genera un sonido audible, usualmente un zumbido o tono continuo. Se utiliza principalmente para emitir alertas o notificaciones sonoras en diversas aplicaciones.
