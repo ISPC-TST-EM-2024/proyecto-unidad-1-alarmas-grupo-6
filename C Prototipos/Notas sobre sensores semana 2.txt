@@ -1,0 +1,5 @@
+Sobre el sensor de luz, se verifica que al aumentar el niver de iluminacion, La tension final disminuye. 
+
+Y, Sobre el sensor de temperatura, Al aumentar la misma, La tension final tambien aumenta.   
+
+Debemos encontrar la forma de poder conjugar ambos sensores para que, cuando la luz aumente o el calor aumente, la alarma se active
