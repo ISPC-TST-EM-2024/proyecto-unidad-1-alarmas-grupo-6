@@ -14,7 +14,7 @@ Como integrantes del equipo, queremos familiarizarnos con el entorno de desarrol
 
 2 Roldan Patricio Leandro
 
-  
+3 Matias Gabriel Gomez Lazzarini  
     
 
 
